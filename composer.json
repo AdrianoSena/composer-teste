@@ -1,5 +1,5 @@
 {
-    "name": "projeto/buscador-cursos",
+    "name": "nanosena/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
